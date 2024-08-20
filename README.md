@@ -1,5 +1,5 @@
 # JAVA Project
-This is my college project using [Java](https://www.java.com) as code and [JavaFX](https://openjfx.io) as an application platform.
+This is my college project using [Java](https://www.java.com) as code and [JavaFX](https://openjfx.io) as an application platform. Goal of this project was to learn about JavaFX and implement it into working application.
 ## Tic Tac Big Toe
 - Project is a game of modified Tic Tac Toe.
 - There are 9 Tic Tac Toe games squeezed into one bigger Tic Tac Toe game.
