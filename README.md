@@ -6,7 +6,13 @@ This is my college project using [Java](https://www.java.com) as code and [JavaF
 - Game has implemented variable AI (random - unbeatable) that you play against.
 
 ### Images
-![Main screen](https://i.imgur.com/QIem2NM.png)
+- Main menu <br />
+![Main menu](https://i.imgur.com/fk8LyNX.png)
+- Main game <br />
+![Main game](https://i.imgur.com/QIem2NM.png)
+- Sub gmae <br />
 ![Sub game](https://i.imgur.com/8IT9LHu.png)
+- AI wins subgame <br />
 ![AI wins subgame](https://i.imgur.com/T6Z5pNF.png)
+- Player wins main game <br />
 ![Player wins game](https://i.imgur.com/FUoxATY.png)
